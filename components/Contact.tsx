@@ -2,8 +2,7 @@
 
 import { useState } from "react";
 
-// Placeholder address — remplacer par l'adresse réelle (ex. contact@minhaj.fr).
-const CONTACT_EMAIL = "contact@minhaj.fr";
+const CONTACT_EMAIL = "contact@minhajgroup.com";
 
 export default function Contact() {
   const [name, setName] = useState("");

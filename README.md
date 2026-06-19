@@ -38,7 +38,7 @@ Aucune variable d'environnement requise.
 ## À personnaliser
 
 - **Email de contact** : `CONTACT_EMAIL` dans `components/Contact.tsx`
-  (placeholder `contact@minhaj.fr`).
+  (`contact@minhajgroup.com`).
 - **URL du site** : `siteUrl` dans `app/layout.tsx`.
 - **Aperçus produits** : captures d'écran statiques dans `public/`
   (`preview-hadn.jpg`, `preview-xklic.jpg`). Pour les rafraîchir, remplacer
